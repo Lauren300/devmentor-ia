@@ -26,9 +26,6 @@ Este projeto foi desenvolvido como parte do desafio do **Módulo 1** do curso **
    ```
    *(Certifique-se de ter sua chave de API da Groq em mãos!)*
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 Desenvolvido por **Lauren Marques** - [Meu LinkedIn](https://www.linkedin.com/in/lauren-marques-511245278/)
