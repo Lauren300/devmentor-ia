@@ -14,7 +14,7 @@ Este projeto foi desenvolvido como parte do desafio do **Módulo 1** do curso **
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/devmentor-ia.git
+   git clone https://github.com/Lauren300/devmentor-ia.git
    ```
 2. Instale as dependências:
    ```bash
